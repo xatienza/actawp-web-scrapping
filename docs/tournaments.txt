@@ -1,0 +1,134 @@
+# LIST OF AVAILABLE TOURNAMENTS
+
+## LLIGA CATALANA CADET MASCULI
+
+- Internal Id: 1222175
+- Uri: https://actawp.natacio.cat/en/tournament/1222175/summary
+
+### AVAILABLE URLS
+
+| Name                   | Url                                                                           |
+|------------------------|-------------------------------------------------------------------------------|
+| Summary                | https://actawp.natacio.cat/en/tournament/1222175/summary                      |
+| Standings              | https://actawp.natacio.cat/en/tournament/1222175/ranking/{groupId}            |
+| Calendar               | https://actawp.natacio.cat/en/tournament/1222175/calendar/{groupId}           |
+| Calendar All Rounds    | https://actawp.natacio.cat/en/tournament/1222175/calendar/{groupId}/all       |
+| Calendar Round         | https://actawp.natacio.cat/en/tournament/1222175/calendar/{groupId}/{roundId} |
+| Tournament Stats       | https://actawp.natacio.cat/en/tournament/1222175/statistics                   |
+| Tournament Group Stats | https://actawp.natacio.cat/en/tournament/1222175/statistics/{groupId}         |
+| Tournament Information | https://actawp.natacio.cat/en/tournament/1222175/information                  |
+| Tournament Sanctions   | https://actawp.natacio.cat/en/tournament/1222175/sanctions                    |
+
+### TOURNAMENT GROUPS
+
+List of available tournaments with the internal id and name inside the actawp website.
+
+| Id      | Name           |
+|---------|----------------|
+| 3369145 | GRUP A 1a FASE |
+| 3369148 | GRUP B 1a FASE |
+| 3369150 | GRUP C 1a FASE |
+| 3369153 | GRUP D 1a FASE |
+| 3370676 | GRUP F 1a FASE |
+| 3369156 | GRUP G 1a FASE |
+| 3369157 | GRUP H 1a FASE |
+
+| Id      | Name                      |
+|---------|---------------------------|
+| 3387436 | GRUP I (1-16) 2a FASE     | 
+| 3387437 | GRUP II (1-16) 2a FASE    |
+| 3387438 | GRUP III (1-16) 2a FASE   |
+| 3387440 | GRUP IV (1-16) 2a FASE    |
+| 3387440 | GRUP V (1-16) 2a FASE     |
+| 3387441 | GRUP V (17-31) 2a FASE    |
+| 3387442 | GRUP VI (17-31) 2a FASE   |
+| 3387443 | GRUP VII (17-31) 2a FASE  |
+| 3387444 | GRUP VIII (17-31) 2a FASE |
+
+GRUP A 1a FASE
+--------------
+ID => 3369145
+
+CALENDAR
+********
+Jornada 1 = 17857902
+Jornada 2 = 17857903
+Jornada 3 = 17857904
+
+GRUP B 1a FASE
+--------------
+ID => 3369148
+
+CALENDAR
+********
+Jornada 1 = 17857908
+Jornada 2 = 17857909
+Jornada 3 = 17857910
+
+GRUP C 1a FASE
+--------------
+ID => 3369150
+
+CALENDAR
+********
+Jornada 1 = 17857911
+Jornada 2 = 17857912
+Jornada 3 = 17857913
+
+GRUP D 1a FASE
+--------------
+ID => 3369153
+
+CALENDAR
+********
+Jornada 1 = 17857938
+Jornada 2 = 17857939
+Jornada 3 = 17857940
+
+GRUP E 1a FASE
+--------------
+ID => 3369154
+
+CALENDAR
+********
+Jornada 1 = 17858356
+Jornada 2 = 17858357
+Jornada 3 = 17858358
+
+GRUP F 1a FASE
+--------------
+ID => 3370676
+
+CALENDAR
+********
+Jornada 1 = 17868545
+Jornada 2 = 17868546
+Jornada 3 = 17868547
+Jornada 4 = 17868548
+
+GRUP G 1a FASE
+--------------
+ID => 3369156
+
+CALENDAR
+********
+Jornada 1 = 17858363
+Jornada 2 = 17858364
+Jornada 3 = 17858365
+Jornada 4 = 17858366
+Jornada 5 = 17858367
+
+GRUP H 1a FASE
+--------------
+ID => 3369157
+
+CALENDAR
+********
+Jornada 1 = 17858369
+Jornada 2 = 17858370
+Jornada 3 = 17858371
+Jornada 4 = 17858372
+Jornada 5 = 17858373
+
+
+
