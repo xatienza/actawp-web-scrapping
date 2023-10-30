@@ -1,0 +1,188 @@
+
+https://actawp.natacio.cat/en/tournament/1222175/calendar/3369150/all
+
+Calendar Fragment
+==================
+
+
+<div id="all-tournament-calendar" class="row">
+  <div class="col-md-6">
+    <div class="box-info full bottom-borderless">
+      <div class="share-buttons hide">
+        <div class="h5">Share</div><a class="btn-light btn btn-default" href="https://www.facebook.com/sharer/sharer.php?u=https://actawp.natacio.cat/en/tournament/1222175/calendar/3369150/17857911&amp;t=Jornada 1 (LLIGA CATALANA CADET MASCULI)" target="_blank"><i class="fa-fw fa fa-facebook"></i> </a><a class="btn-light btn btn-default" href="https://twitter.com/share?url=https://actawp.natacio.cat/en/tournament/1222175/calendar/3369150/17857911&amp;text=Jornada 1 (LLIGA CATALANA CADET MASCULI)" target="_blank"><i class="fa-fw fa fa-twitter"></i> </a><a class="btn-light btn btn-default" href="https://plus.google.com/share?url=https://actawp.natacio.cat/en/tournament/1222175/calendar/3369150/17857911" target="_blank"><i class="fa-fw fa-google-plus fa"></i> </a>
+      </div><button type="button" class="btn btn-default btn-light" data-toggle="popover" data-placement="top" data-html-content=".share-buttons" data-container="body" data-original-title="" title=""><i class="fa fa-share"></i></button>
+      <h2 class="padd padd-top padd-bottom bottom-bordered">
+        Jornada 1 <span class="h5 text-light-gray"> (09/29/23&nbsp;–&nbsp;09/30/23)</span> </h2>
+      <div class="clearfix"></div>
+      <div class="partials-style">
+        <div class="ml-table show-partials initialized">
+          <div class="ml-bottom">
+            <div class="ml-secondary-inputs">
+              <input type="hidden" name="type" value="9"> <input type="hidden" name="id" value="1222175"> <input type="hidden" name="rows" value="50"> <input type="hidden" name="data" value="BM6D9LGQMXrC+0ADMDiFbwYpget/jPhbx2soKb/+8bE=">
+            </div>
+            <div class="ml-tertiary-inputs">
+              <input type="hidden" name="actual" value="1">
+            </div>
+            <div class="table-responsive">
+              <table class="table tablestyle-e1d9 tabletype-public">
+                <thead>
+                  <tr>
+                    <th class="colstyle-equipo ml-trigger" ml-method="GET" ml-controller="https://actawp.natacio.cat/en/ajax/table-sort-column" ml-source=".ml-table .ml-secondary-inputs" ml-destination=".ml-table .ml-bottom" ml-position="replace"><span>Team</span><input type="hidden" name="column" value="equipo.asc"></th>
+                    <th class="colstyle-video ml-trigger" ml-method="GET" ml-controller="https://actawp.natacio.cat/en/ajax/table-sort-column" ml-source=".ml-table .ml-secondary-inputs" ml-destination=".ml-table .ml-bottom" ml-position="replace"><span>Video</span><input type="hidden" name="column" value="video.asc"></th>
+                    <th class="colstyle-fecha ml-trigger" ml-method="GET" ml-controller="https://actawp.natacio.cat/en/ajax/table-sort-column" ml-source=".ml-table .ml-secondary-inputs" ml-destination=".ml-table .ml-bottom" ml-position="replace"><span>Date</span><input type="hidden" name="column" value="fecha.asc"></th>
+                    <th class="colstyle-parciales ml-trigger" ml-method="GET" ml-controller="https://actawp.natacio.cat/en/ajax/table-sort-column" ml-source=".ml-table .ml-secondary-inputs" ml-destination=".ml-table .ml-bottom" ml-position="replace"><span>Periods</span><input type="hidden" name="column" value="parciales.asc"></th>
+                    <th class="colstyle-resultado ml-trigger" ml-method="GET" ml-controller="https://actawp.natacio.cat/en/ajax/table-sort-column" ml-source=".ml-table .ml-secondary-inputs" ml-destination=".ml-table .ml-bottom" ml-position="replace"><span>Result</span><input type="hidden" name="column" value="resultado.asc"></th>
+                  </tr>
+                </thead>
+                <tbody data-link="row" class="rowlink">
+                  <tr>
+                    <td class="colstyle-equipo">
+                      <span>
+                        <a href="https://actawp.natacio.cat/en/tournament/1222175/match/131002895/results" target="_top"><span class="sr-only">Look</span></a>
+                        <img alt="C.N. MOLINS DE REI" src="https://cdn.leverade.com/thumbnails/rfen_f4fc6ccd.30x30.jpg" class="img-circle ">
+                      	<span class="ellipsis" title="" data-original-title="C.N. MOLINS DE REI">C.N. MOLINS DE REI</span>
+                      </span> 
+                      	
+                      <span>
+                      	<img alt="C.N. MONTJUIC" src="https://cdn.leverade.com/thumbnails/AaLZ2cLfo4fC.30x30.jpg" class="img-circle ">
+                      	<span class="ellipsis" title="" data-original-title="C.N. MONTJUIC">C.N. MONTJUIC</span>
+                      </span>
+                    </td>
+                    <td class="colstyle-video text-center rowlink-skip"></td>
+                    <td class="colstyle-fecha">
+                      <span data-sort="0 2023-10-21 16:00:00 C.N. MOLINS DE REI">Sat, 10/21/2023 18:00 GMT+2 
+                        <span class="ellipsis" title="" data-original-title="170 - Molins De Rei, CN">170 - Molins De Rei, CN</span>
+                      </span>
+                    </td>
+                    <td class="colstyle-parciales">
+                      <span data-sort="0 2023-10-21 16:00:00 C.N. MOLINS DE REI" class="vertical-result"><span class="partial-result strong"></span><span class="partial-result strong"></span></span><span class="vertical-result"><span class="partial-result">‐</span><span class="partial-result">‐</span></span><span class="vertical-result"><span class="partial-result">‐</span><span class="partial-result">‐</span></span><span class="vertical-result"><span class="partial-result">‐</span><span class="partial-result">‐</span></span><span class="vertical-result"><span class="partial-result">‐</span><span class="partial-result">‐</span></span><span class="vertical-result"><span class="partial-result">‐</span><span class="partial-result">‐</span></span>
+                    </td>
+                    <td class="colstyle-resultado">
+                      <span data-sort="0 2023-10-21 16:00:00 C.N. MOLINS DE REI">Sat, 10/21/2023 18:00 GMT+2 <span class="ellipsis" title="" data-original-title="170 - Molins De Rei, CN">170 - Molins De Rei, CN</span></span>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <div class="box-info full bottom-borderless">
+      <div class="share-buttons hide">
+        <div class="h5">Share</div>
+        <a class="btn-light btn btn-default" href="https://www.facebook.com/sharer/sharer.php?u=https://actawp.natacio.cat/en/tournament/1222175/calendar/3369150/17857912&amp;t=Jornada 2 (LLIGA CATALANA CADET MASCULI)" target="_blank"><i class="fa-fw fa fa-facebook"></i></a>
+        <a class="btn-light btn btn-default" href="https://twitter.com/share?url=https://actawp.natacio.cat/en/tournament/1222175/calendar/3369150/17857912&amp;text=Jornada 2 (LLIGA CATALANA CADET MASCULI)" target="_blank"><i class="fa-fw fa fa-twitter"></i> </a>
+        <a class="btn-light btn btn-default" href="https://plus.google.com/share?url=https://actawp.natacio.cat/en/tournament/1222175/calendar/3369150/17857912" target="_blank"><i class="fa-fw fa-google-plus fa"></i> </a>
+      </div><button type="button" class="btn btn-default btn-light" data-toggle="popover" data-placement="top" data-html-content=".share-buttons" data-container="body" data-original-title="" title=""><i class="fa fa-share"></i></button>
+      <h2 class="padd padd-top padd-bottom bottom-bordered">
+        Jornada 2 <span class="h5 text-light-gray"> (10/06/23&nbsp;–&nbsp;10/07/23)</span> </h2>
+      <div class="clearfix"></div>
+      <div class="partials-style">
+        <div class="ml-table show-partials initialized">
+          <div class="ml-bottom">
+            <div class="ml-secondary-inputs">
+              <input type="hidden" name="type" value="9"> <input type="hidden" name="id" value="1222175"> <input type="hidden" name="rows" value="50"> <input type="hidden" name="data" value="BM6D9LGQMXrC+0ADMDiFb9J02lWV25gmg2IcSUd6bWo=">
+            </div>
+            <div class="ml-tertiary-inputs">
+              <input type="hidden" name="actual" value="1">
+            </div>
+            <div class="table-responsive">
+              <table class="table tablestyle-e1d9 tabletype-public">
+                <thead>
+                  <tr>
+                    <th class="colstyle-equipo ml-trigger" ml-method="GET" ml-controller="https://actawp.natacio.cat/en/ajax/table-sort-column" ml-source=".ml-table .ml-secondary-inputs" ml-destination=".ml-table .ml-bottom" ml-position="replace"><span>Team</span><input type="hidden" name="column" value="equipo.asc"></th>
+                    <th class="colstyle-video ml-trigger" ml-method="GET" ml-controller="https://actawp.natacio.cat/en/ajax/table-sort-column" ml-source=".ml-table .ml-secondary-inputs" ml-destination=".ml-table .ml-bottom" ml-position="replace"><span>Video</span><input type="hidden" name="column" value="video.asc"></th>
+                    <th class="colstyle-fecha ml-trigger" ml-method="GET" ml-controller="https://actawp.natacio.cat/en/ajax/table-sort-column" ml-source=".ml-table .ml-secondary-inputs" ml-destination=".ml-table .ml-bottom" ml-position="replace"><span>Date</span><input type="hidden" name="column" value="fecha.asc"></th>
+                    <th class="colstyle-parciales ml-trigger" ml-method="GET" ml-controller="https://actawp.natacio.cat/en/ajax/table-sort-column" ml-source=".ml-table .ml-secondary-inputs" ml-destination=".ml-table .ml-bottom" ml-position="replace"><span>Periods</span><input type="hidden" name="column" value="parciales.asc"></th>
+                    <th class="colstyle-resultado ml-trigger" ml-method="GET" ml-controller="https://actawp.natacio.cat/en/ajax/table-sort-column" ml-source=".ml-table .ml-secondary-inputs" ml-destination=".ml-table .ml-bottom" ml-position="replace"><span>Result</span><input type="hidden" name="column" value="resultado.asc"></th>
+                  </tr>
+                </thead>
+                <tbody data-link="row" class="rowlink">
+                  <tr>
+                    <td class="colstyle-equipo">
+                      <a href="https://actawp.natacio.cat/en/tournament/1222175/match/131002896/results" target="_top">
+                        <span class="sr-only">Look</span>
+                      </a>
+                      <span><img alt="C.N. TERRASSA" src="https://cdn.leverade.com/thumbnails/rfen_f74fa6fe.30x30.jpg" class="img-circle "><span class="ellipsis" title="" data-original-title="C.N. TERRASSA">C.N. TERRASSA</span></span> <span><img alt="C.N. MOLINS DE REI" src="https://cdn.leverade.com/thumbnails/rfen_f4fc6ccd.30x30.jpg" class="img-circle "><span class="ellipsis" title="" data-original-title="C.N. MOLINS DE REI">C.N. MOLINS DE REI</span></span>
+                    </td>
+                    <td class="colstyle-video text-center rowlink-skip">
+                    </td>
+                    <td class="colstyle-fecha">
+                      <span data-sort="0 2023-10-28 10:50:00 C.N. TERRASSA">Sat, 10/28/2023 12:50 GMT+2 <span class="ellipsis" title="" data-original-title="163 - Terrassa C.N.">163 - Terrassa C.N.</span></span>
+                    </td>
+                    <td class="colstyle-parciales">
+                      <span data-sort="0 2023-10-28 10:50:00 C.N. TERRASSA" class="vertical-result"><span class="partial-result strong"></span><span class="partial-result strong"></span></span><span class="vertical-result"><span class="partial-result">‐</span><span class="partial-result">‐</span></span><span class="vertical-result"><span class="partial-result">‐</span><span class="partial-result">‐</span></span><span class="vertical-result"><span class="partial-result">‐</span><span class="partial-result">‐</span></span><span class="vertical-result"><span class="partial-result">‐</span><span class="partial-result">‐</span></span><span class="vertical-result"><span class="partial-result">‐</span><span class="partial-result">‐</span></span>
+                    </td>
+                    <td class="colstyle-resultado">
+                      <span data-sort="0 2023-10-28 10:50:00 C.N. TERRASSA">Sat, 10/28/2023 12:50 GMT+2 <span class="ellipsis" title="" data-original-title="163 - Terrassa C.N.">163 - Terrassa C.N.</span></span>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="clearfix"></div>
+  <div class="col-md-6">
+    <div class="box-info full bottom-borderless">
+      <div class="share-buttons hide">
+        <div class="h5">Share</div><a class="btn-light btn btn-default" href="https://www.facebook.com/sharer/sharer.php?u=https://actawp.natacio.cat/en/tournament/1222175/calendar/3369150/17857913&amp;t=Jornada 3 (LLIGA CATALANA CADET MASCULI)" target="_blank"><i class="fa-fw fa fa-facebook"></i> </a><a class="btn-light btn btn-default" href="https://twitter.com/share?url=https://actawp.natacio.cat/en/tournament/1222175/calendar/3369150/17857913&amp;text=Jornada 3 (LLIGA CATALANA CADET MASCULI)" target="_blank"><i class="fa-fw fa fa-twitter"></i> </a><a class="btn-light btn btn-default" href="https://plus.google.com/share?url=https://actawp.natacio.cat/en/tournament/1222175/calendar/3369150/17857913" target="_blank"><i class="fa-fw fa-google-plus fa"></i> </a>
+      </div><button type="button" class="btn btn-default btn-light" data-toggle="popover" data-placement="top" data-html-content=".share-buttons" data-container="body" data-original-title="" title=""><i class="fa fa-share"></i></button>
+      <h2 class="padd padd-top padd-bottom bottom-bordered">
+        Jornada 3 <span class="h5 text-light-gray"> (10/13/23&nbsp;–&nbsp;10/14/23)</span> </h2>
+      <div class="clearfix"></div>
+      <div class="partials-style">
+        <div class="ml-table show-partials initialized">
+          <div class="ml-bottom">
+            <div class="ml-secondary-inputs">
+              <input type="hidden" name="type" value="9"> <input type="hidden" name="id" value="1222175"> <input type="hidden" name="rows" value="50"> <input type="hidden" name="data" value="BM6D9LGQMXrC+0ADMDiFb0SmuOaPhPoZRTMej2YEKUs=">
+            </div>
+            <div class="ml-tertiary-inputs">
+              <input type="hidden" name="actual" value="1">
+            </div>
+            <div class="table-responsive">
+              <table class="table tablestyle-e1d9 tabletype-public">
+                <thead>
+                  <tr>
+                    <th class="colstyle-equipo ml-trigger" ml-method="GET" ml-controller="https://actawp.natacio.cat/en/ajax/table-sort-column" ml-source=".ml-table .ml-secondary-inputs" ml-destination=".ml-table .ml-bottom" ml-position="replace"><span>Team</span><input type="hidden" name="column" value="equipo.asc"></th>
+                    <th class="colstyle-video ml-trigger" ml-method="GET" ml-controller="https://actawp.natacio.cat/en/ajax/table-sort-column" ml-source=".ml-table .ml-secondary-inputs" ml-destination=".ml-table .ml-bottom" ml-position="replace"><span>Video</span><input type="hidden" name="column" value="video.asc"></th>
+                    <th class="colstyle-fecha ml-trigger" ml-method="GET" ml-controller="https://actawp.natacio.cat/en/ajax/table-sort-column" ml-source=".ml-table .ml-secondary-inputs" ml-destination=".ml-table .ml-bottom" ml-position="replace"><span>Date</span><input type="hidden" name="column" value="fecha.asc"></th>
+                    <th class="colstyle-parciales ml-trigger" ml-method="GET" ml-controller="https://actawp.natacio.cat/en/ajax/table-sort-column" ml-source=".ml-table .ml-secondary-inputs" ml-destination=".ml-table .ml-bottom" ml-position="replace"><span>Periods</span><input type="hidden" name="column" value="parciales.asc"></th>
+                    <th class="colstyle-resultado ml-trigger" ml-method="GET" ml-controller="https://actawp.natacio.cat/en/ajax/table-sort-column" ml-source=".ml-table .ml-secondary-inputs" ml-destination=".ml-table .ml-bottom" ml-position="replace"><span>Result</span><input type="hidden" name="column" value="resultado.asc"></th>
+                  </tr>
+                </thead>
+                <tbody data-link="row" class="rowlink">
+                  <tr>
+                    <td class="colstyle-equipo">
+                      <a href="https://actawp.natacio.cat/en/tournament/1222175/match/131002897/results" target="_top">
+                        <span class="sr-only">Look</span>
+                      </a>
+                      <span><img alt="C.N. MONTJUIC" src="https://cdn.leverade.com/thumbnails/AaLZ2cLfo4fC.30x30.jpg" class="img-circle "><span class="ellipsis" title="" data-original-title="C.N. MONTJUIC">C.N. MONTJUIC</span></span> <span><img alt="C.N. TERRASSA" src="https://cdn.leverade.com/thumbnails/rfen_f74fa6fe.30x30.jpg" class="img-circle "><span class="ellipsis" title="" data-original-title="C.N. TERRASSA">C.N. TERRASSA</span></span>
+                    </td>
+                    <td class="colstyle-video text-center rowlink-skip">
+                    </td>
+                    <td class="colstyle-fecha">
+                      <span data-sort="2 2023-10-07 08:00:00 C.N. MONTJUIC">Sat, 10/07/2023 10:00 GMT+2 <span class="ellipsis" title="" data-original-title="161 - Montjuic, CN - Zona Esportiva">161 - Montjuic, CN - Zona Esportiva</span></span>
+                    </td>
+                    <td class="colstyle-parciales">
+                      <span data-sort="2 2023-10-07 08:00:00 C.N. MONTJUIC" class="vertical-result"><span class="partial-result strong">9</span><span class="partial-result strong">22</span></span><span class="vertical-result"><span class="partial-result">2</span><span class="partial-result">5</span></span><span class="vertical-result"><span class="partial-result">3</span><span class="partial-result">5</span></span><span class="vertical-result"><span class="partial-result">1</span><span class="partial-result">7</span></span><span class="vertical-result"><span class="partial-result">3</span><span class="partial-result">5</span></span><span class="vertical-result"><span class="partial-result">0</span><span class="partial-result">0</span></span>
+                    </td>
+                    <td class="colstyle-resultado">
+                      <span data-sort="2 2023-10-07 08:00:00 C.N. MONTJUIC">Sat, 10/07/2023 10:00 GMT+2 <span class="ellipsis" title="" data-original-title="161 - Montjuic, CN - Zona Esportiva">161 - Montjuic, CN - Zona Esportiva</span></span>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

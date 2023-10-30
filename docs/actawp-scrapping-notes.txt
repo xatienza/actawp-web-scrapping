@@ -1,0 +1,26 @@
+Calendar Scrapping
+==================
+
+1.- How to find the calendar content block?
+
+The first tag that includes calendar content is a <div> tab. In this case this <div> have the unique id "all-tournament-calendar".
+
+	<div id="all-tournament-calendar" class="row">
+
+
+2.- How to find all the match days inside the calendar?
+
+The first tag that provides the match day content is a <div>. The unique way to get each match day is by the class "col-md-6" tag.
+
+	<div class="col-md-6">
+	
+2.1.- How to get the Match name and date
+
+The match name and date are available in the <h2> Html tag.
+
+
+
+
+
+
+	
